@@ -1,6 +1,6 @@
 # Cabin "La Esperanza" - Mazamitla
 
-A sleek, modern, and interactive single-page portfolio website for reserving and displaying a fictional luxury alpine cabin in Mazamitla, Jalisco. This project was developed as a professional portfolio showcase.
+A sleek, modern, and interactive single-page portfolio website for reserving and displaying a fictional luxury alpine cabin in Mazamitla, Jalisco. 
 
 ---
 
@@ -9,7 +9,7 @@ A sleek, modern, and interactive single-page portfolio website for reserving and
 ### 🌟 Key Features
 * **Dynamic & Glassmorphic Navbar**: The navigation bar smoothly transitions from transparent to a blur glassmorphism style upon scrolling, dynamically highlighting the active section using `IntersectionObserver`.
 * **Smooth Scrolling**: Enjoy seamless glide animations when clicking on any menu navigation link.
-* **Interactive Lightbox Gallery**: Showcases 5 high-fidelity AI-generated images of the cabin. Clicking any image opens a full-screen modal with slider controls (previous/next).
+* **Interactive Lightbox Gallery**: Showcases 5 high-fidelity images of the cabin. Clicking any image opens a full-screen modal with slider controls (previous/next).
 * **Scroll-Reveal Animations**: Sections slide up and fade in elegantly as the user scrolls them into the viewport.
 * **Booking Form with Real-Time Validation**:
   * Mandatory field checking and length requirements.
@@ -51,8 +51,6 @@ A sleek, modern, and interactive single-page portfolio website for reserving and
    npm run build
    ```
 
-### 📝 Disclaimer
-This project is mock-based and does not represent an actual renting business. Its sole purpose is to serve as a portfolio demonstration for web developer **malcaraz37**.
 
 ---
 
@@ -60,12 +58,12 @@ This project is mock-based and does not represent an actual renting business. It
 
 # Cabaña "La Esperanza" - Mazamitla
 
-Un sitio web de una sola página (Single-Page App) elegante, moderno e interactivo para la reserva y exhibición de una cabaña alpina de lujo ficticia en Mazamitla, Jalisco. Este proyecto ha sido desarrollado con fines de exhibición de portafolio profesional.
+Un sitio web de una sola página (Single-Page App) elegante, moderno e interactivo para la reserva y exhibición de una cabaña alpina de lujo en Mazamitla, Jalisco. 
 
 ### 🌟 Características Principales
 * **Navegación Dinámica y Fluida**: El menú de navegación (Navbar) transita de transparente a un efecto de desenfoque de fondo (*glassmorphism*) al deslizar la página. Rastrea la sección activa automáticamente en pantalla mediante `IntersectionObserver`.
 * **Desplazamiento Suave (*Smooth Scroll*)**: Transiciones suaves al navegar entre las distintas secciones al hacer clic en los enlaces del menú.
-* **Galería con Visor de Diapositivas (*Lightbox*)**: Muestra 5 imágenes realistas de la cabaña (generadas con IA). Al hacer clic en cualquiera de ellas, se abre un visor a pantalla completa con navegación de diapositiva (anterior/siguiente).
+* **Galería con Visor de Diapositivas (*Lightbox*)**: Muestra 5 imágenes realistas de la cabaña Al hacer clic en cualquiera de ellas, se abre un visor a pantalla completa con navegación de diapositiva (anterior/siguiente).
 * **Animaciones al Deslizar (*Scroll Reveal*)**: Los componentes de la página aparecen deslizándose suavemente desde abajo hacia arriba a medida que entran en la pantalla del usuario.
 * **Formulario de Reserva con Validaciones en Tiempo Real**: 
   * Validación de campos obligatorios y longitudes mínimas.
@@ -107,5 +105,4 @@ Un sitio web de una sola página (Single-Page App) elegante, moderno e interacti
    npm run build
    ```
 
-### 📝 Aviso
-Este proyecto es ficticio y no representa un negocio real de renta. Su única función es la de servir como muestra para el portafolio de desarrollo web de **malcaraz37**.
+
